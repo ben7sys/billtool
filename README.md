@@ -1,77 +1,93 @@
-# Language
-- [English](README.md)
-- [Deutsch](README.de.md)
+# billtool
 
-<h1 align="center">**EARLY ALPHA**</h1>
+*A responsive web application to create and manage invoices efficiently.*
 
+[English](README.md) · [Deutsch](README.de.md)
 
-# billtool  
-A responsive web application that allows users to create and manage invoices
+<h4 align="center"><i>Currently in development – feedback & contributions welcome!</i></h4>
 
-![Screenshot](/screenshots/screenshot0.png)
+<p align="center">
+  <img src="/screenshots/screenshot0.png" alt="Screenshot" width="600"/>
+</p>
 
-## Installation & Start
+---
 
-1. Install and start the backend (in a new terminal):
+## 🚀 Quick Start
+
+### 1. Backend
 ```bash
 cd src/backend
 npm install
 npm run dev
 ```
 
-2. Install and start the frontend:
+### 2. Frontend
 ```bash
 cd src/frontend
 npm install
 npm run dev
 ```
 
-The application is then accessible at:
+### Access
 - Frontend: http://localhost:5173  
 - Backend API: http://localhost:3000
 
-## Features
+---
 
-**Frontend:**
-- Modern, responsive UI with dark/light mode support using Tailwind CSS  
-- Dashboard with overview of invoices and key metrics  
-- Invoice management with creation and listing capabilities  
-- Customer management system  
-- Product catalog management  
-- React Router for navigation  
-- TypeScript for type safety
+## ✨ Features
 
-**Backend:**
-- Express.js server with TypeScript  
-- SQLite database with tables for:
-    - Customers  
-    - Products  
-    - Invoices  
-    - Invoice items  
-- RESTful API endpoints for:
-    - Customer management  
-    - Product management  
-    - Invoice creation and listing  
-- Automatic VAT calculations  
-- Transaction support for invoice creation
+### Frontend
+- 🌓 Modern, responsive UI with light/dark mode (Tailwind CSS)
+- 📊 Dashboard with invoice and metrics overview
+- 🧾 Invoice creation and listing
+- 👥 Customer management
+- 📦 Product catalog
+- 🔀 Seamless navigation (React Router)
+- ✅ Type safety with TypeScript
 
-## Usage
+### Backend
+- ⚙️ Express.js server with TypeScript
+- 🗄️ SQLite database with entities for customers, products, invoices, and items
+- 🔌 RESTful API for all major operations
+- 💰 Automatic VAT calculation
+- 🔐 Transactional invoice creation
 
-- The frontend provides an intuitive interface for managing invoices, customers, and products  
-- Use the navigation menu to switch between different sections  
-- Create customers and products before creating invoices  
-- The dashboard provides an overview of all activities  
-- Dark/light mode can be toggled using the theme button in the top-right corner
+---
 
-The system is ready for basic invoice management operations and can be extended with additional features like PDF export, email notifications, and advanced reporting.
+## 🧑‍💻 Usage
 
-## Screenshots
+- Navigate via the sidebar to manage invoices, customers, or products
+- Create customers/products **before** creating invoices
+- Use the dashboard for quick stats and recent activity
+- Toggle light/dark mode via the theme button (top-right)
 
-![Screenshot](/screenshots/screenshot0.png)
-![Screenshot](/screenshots/screenshot1.png)
-![Screenshot](/screenshots/screenshot2.png)
-![Screenshot](/screenshots/screenshot3.png)
-![Screenshot](/screenshots/screenshot4.png)
-![Screenshot](/screenshots/screenshot5.png)
-![Screenshot](/screenshots/screenshot6.png)
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="/screenshots/screenshot1.png" width="300"/>
+  <img src="/screenshots/screenshot2.png" width="300"/>
+  <img src="/screenshots/screenshot3.png" width="300"/><br/>
+  <img src="/screenshots/screenshot4.png" width="300"/>
+  <img src="/screenshots/screenshot5.png" width="300"/>
+  <img src="/screenshots/screenshot6.png" width="300"/>
+</p>
+
+---
+
+## 🛠️ Planned Features
+
+- PDF export of invoices  
+- Email notifications  
+- Advanced filtering and reporting  
+- User authentication & roles  
+- Multi-language support
+
+---
+
+## 📄 License
+
+MIT – free for personal and commercial use.
+
 
