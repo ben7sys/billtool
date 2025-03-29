@@ -2,7 +2,7 @@
 - [English](README.md)
 - [Deutsch](README.de.md)
 
-**EARLY ALPHA***
+**EARLY ALPHA**
 
 # billtool  
 A web application that allows users to create and manage invoices
@@ -64,4 +64,11 @@ The system is ready for basic invoice management operations and can be extended 
 
 ## Screenshots
 
-[1](screenshots/screenshot0.jpg)
+![Screenshot](screenshots/screenshot0.jpg)
+![Screenshot](screenshots/screenshot1.jpg)
+![Screenshot](screenshots/screenshot2.jpg)
+![Screenshot](screenshots/screenshot3.jpg)
+![Screenshot](screenshots/screenshot4.jpg)
+![Screenshot](screenshots/screenshot5.jpg)
+![Screenshot](screenshots/screenshot6.jpg)
+
