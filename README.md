@@ -2,8 +2,6 @@
 
 *A responsive web application to create and manage invoices efficiently.*
 
-[English](README.md) · [Deutsch](README.de.md)
-
 <h4 align="center"><i>Currently in development – feedback & contributions welcome!</i></h4>
 
 <p align="center">
@@ -89,4 +87,6 @@ npm run dev
 
 MIT – free for personal and commercial use.
 
+---
 
+[English](README.md) · [Startversion Deutsch](README.de.md)
