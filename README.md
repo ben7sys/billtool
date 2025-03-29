@@ -65,14 +65,13 @@ npm run dev
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="/screenshots/screenshot1.png" width="300"/>
-  <img src="/screenshots/screenshot2.png" width="300"/>
-  <img src="/screenshots/screenshot3.png" width="300"/>
-  <img src="/screenshots/screenshot4.png" width="300"/>
-  <img src="/screenshots/screenshot5.png" width="300"/>
-  <img src="/screenshots/screenshot6.png" width="300"/>
-</p>
+![Screenshot0](/screenshots/screenshot0.png)
+![Screenshot1](/screenshots/screenshot1.png)
+![Screenshot2](/screenshots/screenshot2.png)
+![Screenshot3](/screenshots/screenshot3.png)
+![Screenshot4](/screenshots/screenshot4.png)
+![Screenshot5](/screenshots/screenshot5.png)
+![Screenshot6](/screenshots/screenshot6.png)
 
 ---
 
