@@ -5,7 +5,9 @@
 **EARLY ALPHA**
 
 # billtool  
-A web application that allows users to create and manage invoices
+A responsive web application that allows users to create and manage invoices
+
+![Screenshot](/screenshots/screenshot0.png)
 
 ## Installation & Start
 
