@@ -2,21 +2,23 @@
 - [English](README.md)
 - [Deutsch](README.de.md)
 
+**EARLY ALPHA***
+
 # billtool  
 A web application that allows users to create and manage invoices
 
 ## Installation & Start
 
-1. Install and start the frontend:
+1. Install and start the backend (in a new terminal):
 ```bash
-cd src/frontend
+cd src/backend
 npm install
 npm run dev
 ```
 
-2. Install and start the backend (in a new terminal):
+2. Install and start the frontend:
 ```bash
-cd src/backend
+cd src/frontend
 npm install
 npm run dev
 ```
@@ -59,3 +61,7 @@ The application is then accessible at:
 - Dark/light mode can be toggled using the theme button in the top-right corner
 
 The system is ready for basic invoice management operations and can be extended with additional features like PDF export, email notifications, and advanced reporting.
+
+## Screenshots
+
+[1](screenshots/screenshot0.jpg)
