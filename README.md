@@ -64,11 +64,11 @@ The system is ready for basic invoice management operations and can be extended 
 
 ## Screenshots
 
-![Screenshot](screenshots/screenshot0.jpg)
-![Screenshot](screenshots/screenshot1.jpg)
-![Screenshot](screenshots/screenshot2.jpg)
-![Screenshot](screenshots/screenshot3.jpg)
-![Screenshot](screenshots/screenshot4.jpg)
-![Screenshot](screenshots/screenshot5.jpg)
-![Screenshot](screenshots/screenshot6.jpg)
+![Screenshot](/screenshots/screenshot0.png)
+![Screenshot](/screenshots/screenshot1.png)
+![Screenshot](/screenshots/screenshot2.png)
+![Screenshot](/screenshots/screenshot3.png)
+![Screenshot](/screenshots/screenshot4.png)
+![Screenshot](/screenshots/screenshot5.png)
+![Screenshot](/screenshots/screenshot6.png)
 
