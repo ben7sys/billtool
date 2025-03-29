@@ -2,7 +2,8 @@
 - [English](README.md)
 - [Deutsch](README.de.md)
 
-**EARLY ALPHA**
+<h1 align="center">**EARLY ALPHA**</h1>
+
 
 # billtool  
 A responsive web application that allows users to create and manage invoices
