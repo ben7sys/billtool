@@ -68,7 +68,7 @@ npm run dev
 <p align="center">
   <img src="/screenshots/screenshot1.png" width="300"/>
   <img src="/screenshots/screenshot2.png" width="300"/>
-  <img src="/screenshots/screenshot3.png" width="300"/><br/>
+  <img src="/screenshots/screenshot3.png" width="300"/>
   <img src="/screenshots/screenshot4.png" width="300"/>
   <img src="/screenshots/screenshot5.png" width="300"/>
   <img src="/screenshots/screenshot6.png" width="300"/>
